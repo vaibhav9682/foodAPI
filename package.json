@@ -1,0 +1,22 @@
+{
+  "name": "foodapi",
+  "version": "1.0.0",
+  "description": "foodAPI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhav9682/foodAPI.git"
+  },
+  "author": "Vaibhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhav9682/foodAPI/issues"
+  },
+  "homepage": "https://github.com/vaibhav9682/foodAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
